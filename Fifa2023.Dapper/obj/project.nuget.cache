@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SOv6jfMXPC5+DvIrDhdI0OfU5x8zQEzimMytWRwKSWTLPQ4LvztHDRvEpN9AyIB7tvFg5fwieNY6HPPag2tLA==",
+  "success": true,
+  "projectFilePath": "/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/Fifa2023.Dapper.csproj",
+  "expectedPackageFiles": [
+    "/home/et12alumno/.nuget/packages/dapper/2.1.24/dapper.2.1.24.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/home/et12alumno/.nuget/packages/mysqlconnector/2.3.1/mysqlconnector.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

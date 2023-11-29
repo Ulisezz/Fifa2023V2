@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Fifa2023.Core/1.0.0": {
+        "runtime": {
+          "Fifa2023.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fifa2023.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

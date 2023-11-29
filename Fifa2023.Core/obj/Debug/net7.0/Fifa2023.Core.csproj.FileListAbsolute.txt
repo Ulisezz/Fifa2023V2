@@ -1,0 +1,12 @@
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/bin/Debug/net7.0/Fifa2023.Core.deps.json
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/bin/Debug/net7.0/Fifa2023.Core.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/bin/Debug/net7.0/Fifa2023.Core.pdb
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.csproj.AssemblyReference.cache
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/refint/Fifa2023.Core.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/Fifa2023.Core.pdb
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Core/obj/Debug/net7.0/ref/Fifa2023.Core.dll

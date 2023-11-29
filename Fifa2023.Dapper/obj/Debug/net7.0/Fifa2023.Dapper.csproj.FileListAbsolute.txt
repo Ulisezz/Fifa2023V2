@@ -1,0 +1,15 @@
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/bin/Debug/net7.0/Fifa2023.Dapper.deps.json
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/bin/Debug/net7.0/Fifa2023.Dapper.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/bin/Debug/net7.0/Fifa2023.Dapper.pdb
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/bin/Debug/net7.0/Fifa2023.Core.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/bin/Debug/net7.0/Fifa2023.Core.pdb
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.csproj.AssemblyReference.cache
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.csproj.CopyComplete
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/refint/Fifa2023.Dapper.dll
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/Fifa2023.Dapper.pdb
+/home/et12alumno/Escritorio/Fifa2023-main/Fifa2023.Dapper/obj/Debug/net7.0/ref/Fifa2023.Dapper.dll

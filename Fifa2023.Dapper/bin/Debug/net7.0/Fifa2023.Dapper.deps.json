@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Fifa2023.Dapper/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.24",
+          "Fifa2023.Core": "1.0.0",
+          "MySqlConnector": "2.3.1"
+        },
+        "runtime": {
+          "Fifa2023.Dapper.dll": {}
+        }
+      },
+      "Dapper/2.1.24": {
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.24.50284"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/7.0.1": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.723.27404"
+          }
+        }
+      },
+      "MySqlConnector/2.3.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.1"
+        },
+        "runtime": {
+          "lib/net7.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.1.0"
+          }
+        }
+      },
+      "Fifa2023.Core/1.0.0": {
+        "runtime": {
+          "Fifa2023.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fifa2023.Dapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.1.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/2t2vsdJyZRsk13AsWigZpsuFvEwK+o3v862cEULXoww905gyKhJFSuwmZI/4Ui9COX9ZCFCI09UHyH4wVYl3A==",
+      "path": "dapper/2.1.24",
+      "hashPath": "dapper.2.1.24.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pkeBFx0vqMW/A3aUVHh7MPu3WkBhaVlezhSZeb1c9XD0vUReYH1TLFSy5MxJgZfmz5LZzYoErMorlYZiwpOoNA==",
+      "path": "microsoft.extensions.logging.abstractions/7.0.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+    },
+    "MySqlConnector/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYTnvNBbNSZotSWUerK22Ztsc3vx3wBRZ4veavkUbfCBNthtCr3CH5Wpoo4l5gBD2TmQD9JbL33Gf9kWko1yYw==",
+      "path": "mysqlconnector/2.3.1",
+      "hashPath": "mysqlconnector.2.3.1.nupkg.sha512"
+    },
+    "Fifa2023.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
